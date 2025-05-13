@@ -1,6 +1,7 @@
 # SalesDashboard
 An interactive dashboard built with Python, Streamlit, and Plotly to visualize and analyze Walmart store sales data.
-![image](https://github.com/user-attachments/assets/45f3bbec-e019-4a4c-9015-71eb8e1e5a4a)
+![WalmartSales](https://github.com/user-attachments/assets/eaed75c8-725d-4b11-be11-522dbe1e88c2)
+
 Libraries Used
 Streamlit: For building the interactive web interface.
 
